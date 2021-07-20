@@ -1,0 +1,8 @@
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Service\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Service.deps.json
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Service\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Service.dll
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Service\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Service.pdb
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.AssemblyInfoInputs.cache
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.AssemblyInfo.cs
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.csproj.CoreCompileInputs.cache
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.dll
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Service\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Service.pdb
