@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj": {}
+    "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {
+    "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj",
+        "projectUniqueName": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj",
         "projectName": "UdemyNLayerProject.Core",
-        "projectPath": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj",
+        "projectPath": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj",
         "packagesPath": "C:\\Users\\bahadir\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\obj\\",
+        "outputPath": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bahadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,18 +54,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj": {
+    "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj",
+        "projectUniqueName": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj",
         "projectName": "UdemyNLayerProject.Data",
-        "projectPath": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj",
+        "projectPath": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj",
         "packagesPath": "C:\\Users\\bahadir\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Data\\obj\\",
+        "outputPath": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bahadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {
-                "projectPath": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj"
+              "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {
+                "projectPath": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj"
               }
             }
           }
@@ -97,6 +97,28 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -112,18 +134,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj": {
+    "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj",
+        "projectUniqueName": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj",
         "projectName": "UdemyNLayerProject.Service",
-        "projectPath": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj",
+        "projectPath": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Service\\UdemyNLayerProject.Service.csproj",
         "packagesPath": "C:\\Users\\bahadir\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Service\\obj\\",
+        "outputPath": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bahadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,11 +162,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {
-                "projectPath": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj"
+              "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {
+                "projectPath": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj"
               },
-              "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj": {
-                "projectPath": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj"
+              "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj": {
+                "projectPath": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Data\\UdemyNLayerProject.Data.csproj"
               }
             }
           }
@@ -173,7 +195,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

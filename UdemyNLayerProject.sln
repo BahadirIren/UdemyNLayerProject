@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyNLayerProject.API", "UdemyNLayerProject.API\UdemyNLayerProject.API.csproj", "{F8140195-B5F2-41CB-A000-DB85A17A82F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyNLayerProject.Core", "UdemyNLayerProject.Core\UdemyNLayerProject.Core.csproj", "{2B6F6341-43D9-4A0D-A9E9-2E751F15F933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyNLayerProject.Core", "UdemyNLayerProject.Core\UdemyNLayerProject.Core.csproj", "{2B6F6341-43D9-4A0D-A9E9-2E751F15F933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyNLayerProject.Data", "UdemyNLayerProject.Data\UdemyNLayerProject.Data.csproj", "{C6EA3FD5-85B1-4832-9E2F-7E91D5099983}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyNLayerProject.Data", "UdemyNLayerProject.Data\UdemyNLayerProject.Data.csproj", "{C6EA3FD5-85B1-4832-9E2F-7E91D5099983}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdemyNLayerProject.Service", "UdemyNLayerProject.Service\UdemyNLayerProject.Service.csproj", "{79C500FE-5CA8-4DBF-A120-95F1DBDFCD70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyNLayerProject.Service", "UdemyNLayerProject.Service\UdemyNLayerProject.Service.csproj", "{79C500FE-5CA8-4DBF-A120-95F1DBDFCD70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyNLayerProject.API", "UdemyNLayerProject.API\UdemyNLayerProject.API.csproj", "{8D57346D-43F7-40B7-8502-8FC9EB1C6DE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F8140195-B5F2-41CB-A000-DB85A17A82F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F8140195-B5F2-41CB-A000-DB85A17A82F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F8140195-B5F2-41CB-A000-DB85A17A82F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F8140195-B5F2-41CB-A000-DB85A17A82F9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2B6F6341-43D9-4A0D-A9E9-2E751F15F933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2B6F6341-43D9-4A0D-A9E9-2E751F15F933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B6F6341-43D9-4A0D-A9E9-2E751F15F933}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{79C500FE-5CA8-4DBF-A120-95F1DBDFCD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79C500FE-5CA8-4DBF-A120-95F1DBDFCD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79C500FE-5CA8-4DBF-A120-95F1DBDFCD70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D57346D-43F7-40B7-8502-8FC9EB1C6DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D57346D-43F7-40B7-8502-8FC9EB1C6DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D57346D-43F7-40B7-8502-8FC9EB1C6DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D57346D-43F7-40B7-8502-8FC9EB1C6DE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

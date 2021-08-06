@@ -1,8 +1,35 @@
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.deps.json
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.runtimeconfig.json
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.runtimeconfig.dev.json
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.dll
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
 \\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.deps.json
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.runtimeconfig.json
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.runtimeconfig.dev.json
 \\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.dll
 \\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.dll
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.pdb
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.AssemblyReference.cache
 \\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.AssemblyInfoInputs.cache
 \\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.AssemblyInfo.cs
 \\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.CoreCompileInputs.cache
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.CopyComplete
 \\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.dll
 \\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
+\\Mac\Windows 10 Shared\Developer\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.genruntimeconfig.cache
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.deps.json
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.runtimeconfig.json
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.runtimeconfig.dev.json
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.dll
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.dll
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.pdb
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.AssemblyReference.cache
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.AssemblyInfoInputs.cache
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.AssemblyInfo.cs
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.CopyComplete
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.dll
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
+C:\Users\bahadir\Desktop\DeveloperWin\UdemyNLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.genruntimeconfig.cache

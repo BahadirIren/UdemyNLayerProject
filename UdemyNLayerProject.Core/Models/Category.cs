@@ -5,8 +5,9 @@ using System.Text;
 
 namespace UdemyNLayerProject.Core.Models
 {
-    class Category
+    public class Category
     {
+        // Constructor
         public Category()
         {
             Products = new Collection<Product>();
@@ -18,6 +19,7 @@ namespace UdemyNLayerProject.Core.Models
 
         public bool IsDeleted { get; set; }
 
+        // her kategori birden fazla urune sahip olabilir
         public ICollection<Product> Products { get; set; }
 
     }

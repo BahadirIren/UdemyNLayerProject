@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {}
+    "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {
+    "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj",
+        "projectUniqueName": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj",
         "projectName": "UdemyNLayerProject.Core",
-        "projectPath": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj",
+        "projectPath": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\UdemyNLayerProject.Core.csproj",
         "packagesPath": "C:\\Users\\bahadir\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Windows 10 Shared\\Developer\\UdemyNLayerProject\\UdemyNLayerProject.Core\\obj\\",
+        "outputPath": "C:\\Users\\bahadir\\Desktop\\DeveloperWin\\UdemyNLayerProject\\UdemyNLayerProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bahadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
